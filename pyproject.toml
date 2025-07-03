@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "aapy_libs"
-version = "0.1.0"
+version = "2025.1.0"
 description = "A collection of utility functions for Python projects"
 readme = "README.md"
 authors = ["Pablo <pablo@example.com>"]
